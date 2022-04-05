@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/m4a28" target="blank"><img src="https://img.shields.io/twitter/follow/m4a28?logo=twitter&style=for-the-badge" alt="m4a28" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [M4A28](M4A28)
-
 - 📫 How to reach me **mohammed.mosa.eg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
