@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mohammed Mosa</h1>
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6f95fe&width=650&lines=Hi%2C+I'm+Mohammed+Mosa%F0%9F%8E%A9%F0%9F%91%8B%F0%9F%8F%BC%F0%9F%92%BB" alt="Typing SVG" /></a>
+</h1>
+
 <h3 align="center">java and android developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4a28&label=Profile%20views&color=0e75b6&style=flat" alt="m4a28" /> </p>
