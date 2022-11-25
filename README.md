@@ -25,3 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m4a28&" alt="m4a28" /></p>
 
+![Snake animation](https://github.com/ahmed-faroukk/ahmed-faroukk/blob/output/github-contribution-grid-snake.svg)
+
+
