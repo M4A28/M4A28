@@ -7,13 +7,11 @@
 
 ### 📫 How to reach me **mohammed.mosa.eg@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/m4a28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m4a28" height="30" width="40" /></a>
-<a href="https://fb.com/m4a28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m4a28" height="30" width="40" /></a>
-</p>
+### Connect with me: 
+![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2FM4A28)   
+![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&url=https%3A%2F%facebook.com%2FM4A28)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=m4a28&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide=prs)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=m4a28&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide=prs)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4a28&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ###Technologies
@@ -29,4 +27,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Snake animation](https://github.com/ahmed-faroukk/ahmed-faroukk/blob/output/github-contribution-grid-snake.svg)
