@@ -2,8 +2,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&background=30FFEB00&center=true&vCenter=true&width=440&lines=Hi++I%2Cm+Mohammed+Mosa" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Android developer from Egypt</h3>
-
+## I am Android developer 
 
 ### 📫 How to reach me **mohammed.mosa.eg@gmail.com**
 
@@ -11,10 +10,11 @@
 ![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2FM4A28)   
 ![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&url=https%3A%2F%facebook.com%2FM4A28)
 
+<hr>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=m4a28&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide=prs)    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4a28&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-###Technologies
+### Technologies
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ff2800?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
