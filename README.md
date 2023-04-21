@@ -7,8 +7,7 @@
 ### 📫 How to reach me **mohammed.mosa.eg@gmail.com**
 
 ### Connect with me: 
-![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=twitter.com/M4A28)   
-![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&url=https%3A%2F%facebook.com%2FM4A28)
+![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=twitter.com/M4A28)   ![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&url=https%3A%2F%facebook.com%2FM4A28)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=m4a28&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide=prs)    
 
@@ -25,4 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Quote of Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
