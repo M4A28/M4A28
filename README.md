@@ -35,8 +35,20 @@
 - **Linux Enthusiast:** Navigating the development landscape with ease.
 
 ### 📊 GitHub Stats & Top Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4a28&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide=prs)               
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m4a28&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m4a28&theme=dark" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m4a28&theme=dark" />
+</p>
 
-### 🌟 Quote of the Day
-![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4a28&theme=dark" />
+
+</br>
+</br>
+
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+
+</div>
+
