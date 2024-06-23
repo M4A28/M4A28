@@ -12,7 +12,6 @@
 
 ### 🌐 Connect with Me
 ![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=twitter.com/M4A28)   
-![Facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&url=https%3A%2F%facebook.com%2FM4A28)
 
 ### 🛠️ Technologies & Tools
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
