@@ -1,68 +1,64 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammed Mosa
-### 📱 Mobile Developer | 🚀 Flutter & Android Expert | 💻 Code Philosopher
+# 🚀 Mohammed Mosa
+### Mobile Solutions Architect | Flutter & Android Expert
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3DDC84&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Apps;Mastering+Flutter+%26+Kotlin;Designing+Seamless+UI%2FUX" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=500&lines=Crafting+Modern+Mobile+Experiences;Mastering+Flutter+%26+Kotlin;Enthusiast+of+Clean+Architecture)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="mailto:mohammed.mosa.eg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/M4A28"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Email-mohammed.mosa.eg@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" hspace="5"/>
+  <img src="https://img.shields.io/badge/Twitter-@M4A28-1DA1F2?style=flat-square&logo=twitter&logoColor=white" hspace="5"/>
+  <img src="https://img.shields.io/github/followers/m4a28?label=Followers&style=flat-square&color=333" hspace="5"/>
+</p>
+
+</div>
+
+## 👨‍💻 About Me
+I am a **Software Engineer** specializing in mobile ecosystems. My work revolves around building high-performance applications that balance technical excellence with exceptional user experience. Whether it's **Native Android** or **Flutter**, I focus on writing code that is scalable, testable, and clean.
+
+---
+
+## 🛠 Tech Stack
+
+### 📱 Mobile & Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java,firebase,sqlite" />
+  </a>
+</p>
+
+### ⚙️ Tools & OS
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,py,git,github,vscode" />
+  </a>
 </p>
 
 ---
 
-</div>
+## 📊 Performance Metrics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m4a28&show_icons=true&theme=transparent&title_color=42A5F5&icon_color=42A5F5&text_color=888&border_color=42A5F5" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4a28&layout=compact&theme=transparent&title_color=42A5F5&text_color=888&border_color=42A5F5" />
+</p>
 
-## 📖 About Me
-I am a dedicated **Mobile Application Developer** with a deep passion for creating high-performance, visually stunning applications. I bridge the gap between **Native Android (Kotlin/Java)** and **Cross-Platform (Flutter/Dart)** to deliver the best user experience. My philosophy is built on writing clean, scalable code and solving complex architectural challenges.
-
----
-
-## 🛠️ Technical Arsenal
-
-### 📱 Mobile Development & Languages
-| | | |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> |
-| <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> | <img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=google&logoColor=white" /> | <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=api&logoColor=white" /> |
-
-### ⚙️ Tools & Infrastructure
-| | | |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> | <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /> |
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=m4a28&theme=transparent&stroke=42A5F5&ring=42A5F5&fire=42A5F5&currStreakNum=42A5F5" />
+</p>
 
 ---
 
-## 📊 Analytics & Insights
+## 🧠 Philosophy
+> *"The best way to predict the future is to invent it."* — Alan Kay
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4a28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4a28&layout=compact&theme=tokyonight"/></td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=m4a28&theme=tokyonight" />
-</div>
-
----
-
-## 💡 Code Philosophy
-> "Code is like humor. When you have to explain it, it’s bad."
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text_color=42A5F5">
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=m4a28&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=m4a28&label=Profile%20Views&color=42A5F5&style=flat-square" alt="Views" />
 </div>
